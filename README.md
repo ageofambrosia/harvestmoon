@@ -1,4 +1,4 @@
-# harvest moon
+# Harvest Moon
 I'm not a farmer, but I aspire daily to be one. And so should you. Grab that hoe and get to work.
 
 In order to test out those cultivation skills in a near real-world environment, I've written a pretty simple farming game on python that in no way resembles what you may actual experience while working a field. I'm still learning quite a bit from "learnpythonthehardway.com," but since it's my first project, make sure you rip it apart.
